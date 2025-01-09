@@ -1,0 +1,14 @@
+C:\Users\aleja\RiderProjects\ConsoleApp5\D.1 Laboratorio Semana 1\bin\Debug\net9.0\D.1 Laboratorio Semana 1.exe
+C:\Users\aleja\RiderProjects\ConsoleApp5\D.1 Laboratorio Semana 1\bin\Debug\net9.0\D.1 Laboratorio Semana 1.deps.json
+C:\Users\aleja\RiderProjects\ConsoleApp5\D.1 Laboratorio Semana 1\bin\Debug\net9.0\D.1 Laboratorio Semana 1.runtimeconfig.json
+C:\Users\aleja\RiderProjects\ConsoleApp5\D.1 Laboratorio Semana 1\bin\Debug\net9.0\D.1 Laboratorio Semana 1.dll
+C:\Users\aleja\RiderProjects\ConsoleApp5\D.1 Laboratorio Semana 1\bin\Debug\net9.0\D.1 Laboratorio Semana 1.pdb
+C:\Users\aleja\RiderProjects\ConsoleApp5\D.1 Laboratorio Semana 1\obj\Debug\net9.0\D.1 Laboratorio Semana 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\RiderProjects\ConsoleApp5\D.1 Laboratorio Semana 1\obj\Debug\net9.0\D.1 Laboratorio Semana 1.AssemblyInfoInputs.cache
+C:\Users\aleja\RiderProjects\ConsoleApp5\D.1 Laboratorio Semana 1\obj\Debug\net9.0\D.1 Laboratorio Semana 1.AssemblyInfo.cs
+C:\Users\aleja\RiderProjects\ConsoleApp5\D.1 Laboratorio Semana 1\obj\Debug\net9.0\D.1 Laboratorio Semana 1.csproj.CoreCompileInputs.cache
+C:\Users\aleja\RiderProjects\ConsoleApp5\D.1 Laboratorio Semana 1\obj\Debug\net9.0\D.1 Laboratorio Semana 1.dll
+C:\Users\aleja\RiderProjects\ConsoleApp5\D.1 Laboratorio Semana 1\obj\Debug\net9.0\refint\D.1 Laboratorio Semana 1.dll
+C:\Users\aleja\RiderProjects\ConsoleApp5\D.1 Laboratorio Semana 1\obj\Debug\net9.0\D.1 Laboratorio Semana 1.pdb
+C:\Users\aleja\RiderProjects\ConsoleApp5\D.1 Laboratorio Semana 1\obj\Debug\net9.0\D.1 Laboratorio Semana 1.genruntimeconfig.cache
+C:\Users\aleja\RiderProjects\ConsoleApp5\D.1 Laboratorio Semana 1\obj\Debug\net9.0\ref\D.1 Laboratorio Semana 1.dll
